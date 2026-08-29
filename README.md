@@ -36,5 +36,15 @@ Lanjutan: mesin dengan kerusakan (interrupt).
 python contoh_breakdown.py
 ```
 
+### war_tiket.py
+Model DES war tiket konser: human vs bot calo (kasus King Nassar, ilustrasi).
+
+- 7.000 tiket, kedatangan 500/menit, human 2 dtk vs bot 0,5 dtk, 40% trafik bot
+- Bandingkan skenario dengan dan tanpa bot: siapa dapat tiket, waktu tunggu
+
+```bash
+python war_tiket.py
+```
+
 ## Lisensi
 MIT — silakan pakai, modifikasi, sebarkan.
